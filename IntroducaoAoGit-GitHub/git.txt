@@ -1,0 +1,4 @@
+
+Git Batch é um terminal criado para otimizar o uso de Git
+
+Link: https://git-scm.com/downloads
